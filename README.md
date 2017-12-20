@@ -42,7 +42,8 @@ The symbols are as follows:
 |●n |   there are `n` staged files
 |✖n |   there are `n` unmerged files
 |✚n |   there are `n` changed but *unstaged* files
-|… |   there are some untracked files
+|…n |   there are `n` untracked files
+|$n |   there are `n` stashed changes
 
 
 ### Branch Tracking Symbols
